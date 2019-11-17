@@ -39,3 +39,10 @@
 - Line Height
 - Alignment
 - Readablity
+
+## Web Colors
+**Web colors are colors used in displaying web pages, and the methods for describing and specifying those colors.**
+- Have a website style in mind
+- Limit color usage
+- Keep readability in mind
+- Use web friendly colors
