@@ -6,12 +6,12 @@
 6. Get complete code for real responsive website
 
 Web Design Elements
--- Wireframing.
--- UX / UI.
--- Layout & Spacing.
--- Navigation.
--- Colors.
--- Fonts.
--- Icons.
--- Imagery.
--- etc.
+-- Wireframing.<br>
+-- UX / UI.<br>
+-- Layout & Spacing.<br>
+-- Navigation.<br>
+-- Colors.<br>
+-- Fonts.<br>
+-- Icons.<br>
+-- Imagery.<br>
+-- etc.<br>
