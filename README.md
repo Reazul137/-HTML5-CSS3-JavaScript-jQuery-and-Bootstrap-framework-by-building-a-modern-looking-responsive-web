@@ -4,3 +4,14 @@
 4. Be able to build modern looking website which will look great on all the small & wide screens.
 5. Learn about media queries and will be able to make website perfect for responsive design.
 6. Get complete code for real responsive website
+
+Web Design Elements
+-- Wireframing
+-- UX / UI
+-- Layout & Spacing
+-- Navigation
+-- Colors
+-- Fonts
+-- Icons
+-- Imagery
+-- etc
