@@ -15,3 +15,5 @@
 -- Icons.<br>
 -- Imagery.<br>
 -- etc.<br>
+## Front End:
+ **The front-end is what the user sees. Including design and some technologies like _HTML_ and _CSS_ and _JavaScript_.**
