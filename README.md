@@ -17,3 +17,5 @@
 -- etc.<br>
 ## Front End:
  **The front-end is what the user sees. Including design and some technologies like _HTML_ and _CSS_ and _JavaScript_.**
+## Back End:
+ **The back-end is basically how the site works. This refers to everything the user can't see in the browser, like _database_ and _servers_.**
