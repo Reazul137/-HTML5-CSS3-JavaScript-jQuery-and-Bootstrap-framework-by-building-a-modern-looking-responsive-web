@@ -31,3 +31,10 @@
 * Is the interaction itself
 * Includes interfaces
 
+## Typography
+**Typography is the art of designing _letters_, _words_, _paragraphs_, and how they interact with each other.**
+- Font Choice
+- Size
+- Line Height
+- Alignment
+- Readablity
