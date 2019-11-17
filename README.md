@@ -46,3 +46,13 @@
 - Limit color usage
 - Keep readability in mind
 - Use web friendly colors
+
+## Images for Web
+- Selection of Images
+- Use Effective Images
+- Placement of Images
+- Size and Resolution of Images
+- Add Titles
+- Image Optimization
+
+
