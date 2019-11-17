@@ -19,3 +19,15 @@
  **The front-end is what the user sees. Including design and some technologies like _HTML_ and _CSS_ and _JavaScript_.**
 ## Back End:
  **The back-end is basically how the site works. This refers to everything the user can't see in the browser, like _database_ and _servers_.**
+ 
+## UI (User Interface)
+* Stands for User Interface
+* Includes visual design of a product
+* Tool and point of interaction
+
+## UX (User Experience)
+* Stands for User Experience
+* Is how a person feel for a product
+* Is the interaction itself
+* Includes interfaces
+
