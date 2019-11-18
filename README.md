@@ -55,4 +55,12 @@
 - Add Titles
 - Image Optimization
 
+## WhiteSpacing
+**Whitespace is an empty space in anny web layout.**
+- Increase content readability
+- Guides users on a page
+- More interaction
+- Create balance
+- Acts as a separator
+
 
